@@ -1,0 +1,18 @@
+# 1. Ignorar directorios de trabajo de Terraform (se regeneran con init)
+.terraform/
+
+# 2. Ignorar archivos de estado (No se deben compartir entre diferentes cuentas de AWS)
+*.tfstate
+*.tfstate.*
+
+# 3. Ignorar archivos de plan temporales
+*.tfplan
+
+# 4. Ignorar archivos específicos solicitados por el usuario
+.agents/
+skills-lock.json
+pdf/
+
+# 5. Archivos temporales del sistema
+.DS_Store
+Thumbs.db

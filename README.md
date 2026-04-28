@@ -25,7 +25,7 @@ La arquitectura se diseñó de forma modular para garantizar escalabilidad. Las 
    
     **URL Pública del Sitio:**
     👉 [Haz clic aquí para ver mi examen](https://examen-terraform-yenniferg.s3.us-east-1.amazonaws.com/index.html)
-    
+ ---  
 
 ## 📂 Estructura del Proyecto
 

@@ -1,6 +1,6 @@
-# Despliegue de Infraestructura como Código (IaC) - AWS & Terraform
-
-Este proyecto consiste en el despliegue de una infraestructura automatizada en AWS utilizando **Terraform**. El objetivo principal es
+ # Examen Final Módulo 3 - Despliegue de IaC en AWS con Terraform
+    2
+    3 Este proyecto consiste en el despliegue de una infraestructura automatizada en AWS utilizando **Terraform**. El objetivo principal es
       hospedar una página web estática en un bucket de **Amazon S3**, siguiendo las mejores prácticas de Infraestructura como Código (IaC),
       modularización y seguridad.
     4
